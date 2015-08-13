@@ -54,7 +54,9 @@
   * https://github.com/h3xstream/find-sec-bugs
 
 * QARK
-  * TBD
+  * (Android Quick Android Review), Kit App Anlaysis Tool 
+  * By LinkedIn Engineers
+  * Claimed to be opensourced but not active on GitHub yet.
 
 * SERPICO
   * Recommended
@@ -282,7 +284,7 @@ Security Monitoring tools is migrating towards data warehouse monitoring (Splunk
   * Slides at: http://www.slideshare.net/bbaskin/bh15-arsenal-noriben
   * By Brian Baskin, form RSA, http://www.ghettoforensics.com/
 
-# Day 2 Group 3
+### Day 2 Group 3
 
 * Chellam
   * Recommended
